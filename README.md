@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Javascript...
 - 🌱 I’m currently learning Javascript Basics..
--
 - 📫 How to reach me: mrpalaiologos@gmail.com
 - 😄 Pronouns: everything!
 
