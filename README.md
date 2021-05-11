@@ -1,6 +1,6 @@
 ### Hi there I am Angelo 👋
 - 🔭 I’m currently working on Javascript...
-- 🌱 I’m currently learning Javascript Basics..
+- 🌱 I’m currently learning Javascript & SCSS...
 - 📫 How to reach me: mrpalaiologos@gmail.com
 - 😄 Pronouns: everything!
 
