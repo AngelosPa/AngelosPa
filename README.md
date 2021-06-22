@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & SCSS**
 
-- 👨‍💻 Some of my projects are available at https://github.com/AngelosPa?tab=repositories
+- 👨‍💻 Some of my projects are available at https://angelospa.github.io/PortfolioWebsite/
 - 💬 Ask me about **upcoming projects, ideas**
 
 - 📫 How to reach me **mrpalaiologos@gmail.com**
