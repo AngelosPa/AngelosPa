@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & SCSS**
 
-- 👨‍💻 Some of my projects are available at https://portfolio-website-taupe-mu.vercel.app/
+- 👨‍💻 Some of my projects are available at https://portfolio-website-angelospa.vercel.app/
 - 💬 Ask me about **upcoming projects, ideas**
 
 - 📫 How to reach me **mrpalaiologos@gmail.com**
