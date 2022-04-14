@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">A Student in Web-Dev department of DCI-Institute</h3>
-
+<!-- <h3 align="center">A Student in Web-Dev department of DCI-Institute</h3>
+ -->
 - 🌱 I’m currently learning **Node.js, Express and MongoDB**
 
 - 👨‍💻 Some of my projects are available at https://portfolio-website-angelospa.vercel.app/
