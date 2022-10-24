@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
-<!-- <h3 align="center"> Web-Developer converted to data Analyst </h3>
- -->
-<!-- - 🌱 I’m currently learning **Node.js, Express and MongoDB** -->
+ <h3 align="center"> Web-Developer converted to data Analyst </h3>
+
+
 
 - 💬 Ask me about **upcoming projects, ideas**
 
